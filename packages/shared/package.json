@@ -1,0 +1,19 @@
+{
+    "name": "@state_task/shared",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "license": "ISC",
+    "scripts": {
+        "build": "babel src --out-dir dist --copy-files"
+    },
+    "peerDependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.28.3",
+        "@babel/core": "^7.28.3",
+        "@babel/preset-env": "^7.28.3",
+        "@babel/preset-react": "^7.27.1"
+    }
+}

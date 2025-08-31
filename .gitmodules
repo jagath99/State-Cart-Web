@@ -1,3 +1,6 @@
 [submodule "apps/context-cart"]
 	path = apps/context-cart
 	url = https://github.com/jagath99/context-cart
+[submodule "apps/zustand-cart"]
+	path = apps/zustand-cart
+	url = https://github.com/jagath99/zustand-cart
